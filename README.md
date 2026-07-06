@@ -76,10 +76,10 @@ Browse quotes from **13 carefully selected categories:**
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="220" alt="Home Screen"/>
-  <img src="screenshots/categories.jpeg" width="220" alt="Categories Screen"/>
-  <img src="screenshots/explore.jpeg" width="220" alt="Explore Screen"/>
-  <img src="screenshots/favorite.jpeg" width="220" alt="Favorites Screen"/>
+  <img src="screenshots/home.jpeg" width="180" alt="Home Screen"/>
+  <img src="screenshots/categories.jpeg" width="180" alt="Categories Screen"/>
+  <img src="screenshots/explore.jpeg" width="180" alt="Explore Screen"/>
+  <img src="screenshots/favorite.jpeg" width="180" alt="Favorites Screen"/>
 </p>
 
 ---
